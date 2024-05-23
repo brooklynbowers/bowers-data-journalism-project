@@ -41,7 +41,7 @@ Output of plot:
 ![bar_chart_data_journalism](https://github.com/brooklynbowers/data_journalism_project/assets/151276772/73cec8d4-8366-4908-8d6a-8a8547d9e885)
 
 
-Finally, to prepare for the Generative AI output, I summarized the analysis of the plot.
+To prepare for the Generative AI output, I summarized the analysis of the plot.
 
 ### Analysis of the Bar Graph and Casual and Permanent Employment
 
