@@ -54,6 +54,8 @@ plt.show()
 
 ![heat_map_EDA3](https://github.com/brooklynbowers/data_journalism_project/assets/151276772/46e51aea-1945-41c1-a63a-7b3a5299c93d)
 
+To prepare for the Generative AI output, I summarized the analysis of the plot.
+
 
 
 
