@@ -9,8 +9,6 @@
 # Project Task 4
 
 
+## need to create document for Generative AI of task 5, pluf gif of the output
 
 # Project Task 5
-
-Generative AI
-Structure the generative ai response along with the visuals developed in the EDA section
