@@ -85,22 +85,26 @@ def find_delimiter(filename):
         delimiter = sniffer.sniff(fp.read(5000)).delimiter
     return delimiter
 
-# function prints the type of delimeter used in the file specified
-def print_delimiter(file_path, file_description):
-    print(f'The delimiter used in the {file_description} csv file is: ')
-    print(find_delimiter(file_path))
-    print('\n')
+print('the delimiter used in the Average_Hourly_Wages_Female_Canadian csv file is: ')
+print(find_delimiter('/content/drive/My Drive/Lonely Octopus Files/projects/Project 16 - Data Journalism/Average_Hourly_Wages_Female_Canadian.csv'))
+print('\n')
+#
+print('the delimiter used in the Average_Hourly_Wages_Male_Canadian csv file is: ')
+print(find_delimiter('/content/drive/My Drive/Lonely Octopus Files/projects/Project 16 - Data Journalism/Average_Hourly_Wages_Male_Canadian.csv'))
+print('\n')
+#
+print('the delimiter used in the Average_Hourly_Wages_Overall_Canadian csv file is: ')
+print(find_delimiter('/content/drive/My Drive/Lonely Octopus Files/projects/Project 16 - Data Journalism/Average_Hourly_Wages_Overall_Canadian.csv'))
+print('\n')
 
-file_paths_descriptions = [
-    ('', "Average Hourly Wages Female Canadian"),
-    ('', "Average Hourly Wages Male Canadian"),
-    ('', "Average Hourly Wages Overall Canadian"),
-    ('', "Average Weekly Wages Full-time Canadian"),
-    ('', "Average Weekly Wages Part-time Canadian"),
-    ('', "Total Employee Wages Canadian")
-]
+print('the delimiter used in the Average_Weekly_Wages_Full-time_Canadian csv file is: ')
+print(find_delimiter('/content/drive/My Drive/Lonely Octopus Files/projects/Project 16 - Data Journalism/Average_Weekly_Wages_Full-time_Canadian.csv'))
+print('\n')
 
-# prints the file name and specific delimeter type used in the file requested
-for file_path, description in file_paths_descriptions:
-    print_delimiter(file_path, description)
+print('the delimiter used in the Average_Weekly_Wages_Part-time_Canadian csv file is: ')
+print(find_delimiter('/content/drive/My Drive/Lonely Octopus Files/projects/Project 16 - Data Journalism/Average_Weekly_Wages_Part-time_Canadian.csv'))
+print('\n')
 
+print('the delimiter used in the Total_Employee_Wages_Canadian csv file is: ')
+print(find_delimiter('/content/drive/My Drive/Lonely Octopus Files/projects/Project 16 - Data Journalism/Total_Employee_Wages_Canadian.csv'))
+print('\n')
