@@ -43,7 +43,15 @@ Output of plot:
 
 Finally, to prepare for the Generative AI output, I summarized the analysis of the plot.
 
-### Analysis of the Line Plot and Health, Engineering, and Overall Hourly Wage Trends
+### Analysis of the Bar Graph and Casual and Permanent Employment
+
+**Bar Graph Analysis**
+
+The bar chart indicates a clear disparity in earnings between full-time and part-time employees. Full-time employees have a significantly higher average weekly wage compared to part-time employees. This difference highlights a crucial aspect of employment types and financial stability, where full-time employment typically offers more financial stability due to higher and consistent earnings. Full-time employees are more likely to receive additional benefits from their employer, which are not usually provided to part-time employees. These benefits can include health insurance, retirement benefits, paid time off, and more, contributing to the greater overall financial security of full-time employees. While part-time employment may offer flexibility and the possibility to combine work with other activities such as studying or caregiving, it often leads to lower overall earnings. Recieving a lower income can result in less financial stability, making it challenging for part-time workers to manage unexpected expenses or save for long-term goals.
+
+The significant difference in wages as seen in the graph can have various implications. Those in part-time employment may have less disposable income, which could impact their purchasing power and overall economic participation. The disparity may prompt considerations for policy interventions to ensure part-time workers are supported, perhaps through wage supplements or access to pro-rated benefits based on hours worked.
+
+
 
 
 
