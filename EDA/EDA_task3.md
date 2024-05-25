@@ -110,12 +110,15 @@ To prepare for the Generative AI output, I summarized the analysis of both plots
 ### Analysis of the Heatmap and Boxplots
 
 **Heatmap Analysis**
+
 The heat map indicates that in every occupation listed in this analysis, males have higher average wages than females, which indicates a persistent gender wage gap. The heat map also indicated that males in legislative and senior management positions earn significantly more on average than females in the same occupation, and this wage gap is more pronounced than in other professions.
 
 **Boxplot Analysis**
+
 The boxplots indicate that across all occupations in this analysis, males tend to have a higher median wage than females. This is indicated by the median of the male boxplots generally being higher than the female median. The Legislative/Senior Management occupation shows the widest wage gap, with the median male wage significantly higher than the median female wage. Specialized Middle Management and Professional Law occupations also show a noticeable wage gap, though not as prominent as in legislative/senior management. The wage gap appears narrower in the Sales/Service Support, Labourers, Care Providers/Public Protection occupations, but it's still present, with males having a higher median wage than females.
 
 **Inferences and Contextualization**
+
 The wage gaps may be partially explained by occupational segregation, where women and men are concentrated in different types of jobs, which may have different levels of pay. Despite efforts to address pay equity, these graphs illustrate that significant wage disparities between genders persist, particularly in higher-paying occupations.
 
 Policies aimed at reducing the gender wage gap, such as equal pay legislation, transparency in compensation, and parental leave policies, may not have fully bridged the gap between males and females. Further analysis could determine the effectiveness of such policies over time. Differences in negotiation practices and promotion rates between men and women could contribute to the wage gap. Women are also more likely to engage in part-time work and take career breaks due to caregiving, which can impact their average wages.
