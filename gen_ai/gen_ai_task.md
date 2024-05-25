@@ -13,7 +13,7 @@ api_key_path = 'file_for_api_key_goes_here.txt'
 Next, I had the model read the API key and then set the API key in the environment.
 
 ```
-with open('data_journ_LO.txt', 'r') as file:
+with open('file_for_api_key_goes_here.txt', 'r') as file:
     api_key = file.readline().strip()
 os.environ['OPENAI_API_KEY'] = api_key
 ```
