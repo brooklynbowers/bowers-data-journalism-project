@@ -23,7 +23,7 @@ plt.legend(title='Occupation')
 plt.tight_layout() 
 plt.show() 
 
-############
+######################
 
 # compare the average weekly wage between full-time and part-time employees
 # using a bar chart to for visualization
