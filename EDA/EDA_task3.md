@@ -56,6 +56,6 @@ plt.show()
 
 To prepare for the Generative AI output, I summarized the analysis of the plot.
 
-
+### Analysis of the Heatmap 
 
 
