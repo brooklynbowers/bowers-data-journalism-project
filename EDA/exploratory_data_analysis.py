@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis - Full Code
 
 # tasks:
 # 1. create a line plot that shows the overall hourly wage trend over time
