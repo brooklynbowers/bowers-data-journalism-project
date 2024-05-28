@@ -88,8 +88,10 @@ response_message = response.choices[0].message.content
 print(response_message)
 ```
 
+
 Below is the final output from the model of the Data Journalism article that I requested from the prompt:
 
-# need gif
+![2024-05-28 13 47 46](https://github.com/brooklynbowers/data_journalism_project/assets/151276772/133ee733-f81b-425f-8428-1db8f178feeb)
+
 
 
