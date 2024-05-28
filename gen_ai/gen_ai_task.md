@@ -2,7 +2,7 @@
 
 ## Task - Structure the generative ai response along with the visuals developed in the EDA section
 
-To complete this task, I first needed to create an API key from OpenAI, create a .txt file with the api key and then upload this .txt file to google collab. 
+To complete this task, I first needed to create an API key from OpenAI, create a .txt file with the api key and then upload this .txt file using google collab. 
 
 ```
 from google.colab import files
